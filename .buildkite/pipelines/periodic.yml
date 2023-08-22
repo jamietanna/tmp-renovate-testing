@@ -12,4 +12,4 @@
         _baz:
           image: family/elasticsearch-ubuntu-2004:latest
         _bazz:
-          image: family/elasticsearch-ubuntu-2004:1.2h
+          image: family/elasticsearch-ubuntu-2004:1.2
