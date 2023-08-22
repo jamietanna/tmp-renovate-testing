@@ -7,3 +7,9 @@
 
         _foo:
           image: "golang:1.19"
+        _bar:
+          image: golang:1.19
+        _baz:
+          image: family/elasticsearch-ubuntu-2004:latest
+        _bazz:
+          image: family/elasticsearch-ubuntu-2004:1.2h
