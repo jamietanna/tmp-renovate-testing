@@ -1,0 +1,6 @@
+# via https://github.com/elastic/elasticsearch/blob/bba8d1e25abe793618036fdf5e6872e844fd9737/.buildkite/pipelines/periodic.yml#L17-L21
+        agents:
+          provider: gcp
+          image: family/elasticsearch-ubuntu-2004
+          machineType: custom-32-98304
+          buildDirectory: /dev/shm/bk
