@@ -6,4 +6,4 @@
           buildDirectory: /dev/shm/bk
 
         _foo:
-          image: golang:1.19
+          image: "golang:1.19"
