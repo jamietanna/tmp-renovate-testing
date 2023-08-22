@@ -4,3 +4,6 @@
           image: family/elasticsearch-ubuntu-2004
           machineType: custom-32-98304
           buildDirectory: /dev/shm/bk
+
+        _foo:
+          image: golang:1.19
